@@ -9,19 +9,19 @@
         "beta":[
           {
             "version":"0.37.0",
-            "filename":"SunstreamDFU_R501_v37.zip"
+            "filename":"SunstreamDFU_v37.zip"
           },
           {
             "version":"0.70.0",
-            "filename":"SunstreamDFU_R501_v70.zip"
+            "filename":"SunstreamDFU_v70.zip"
           },
           {
             "version":"0.71.0",
-            "filename":"SunstreamDFU_R501_v71.zip"
+            "filename":"SunstreamDFU_v71.zip"
           },
           {
             "version":"0.72.0",
-            "filename":"SunstreamDFU_R501_v72.zip"
+            "filename":"SunstreamDFU_v72.zip"
           }
         ],
         "release":[
