@@ -10,6 +10,18 @@
           {
             "version":"0.38.0",
             "filename":"SunstreamDFU_v38.zip"
+          },
+          {
+            "version":"0.60.0",
+            "filename":"SunstreamDFU_v60.zip"
+          },
+          {
+            "version":"0.61.0",
+            "filename":"SunstreamDFU_v61.zip"
+          },
+          {
+            "version":"0.62.0",
+            "filename":"SunstreamDFU_v62.zip"
           }
         ],
         "release":[
