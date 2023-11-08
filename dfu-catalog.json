@@ -8,7 +8,7 @@
         "alpha":[],
         "beta":[
           {
-            "version":"0.38.0",
+            "version":"0.40.0",
             "filename":"SunstreamDFU_v38.zip"
           },
           {
@@ -26,13 +26,13 @@
         ],
         "release":[
           {
-            "version":"0.38.0",
+            "version":"0.40.0",
             "filename":"SunstreamDFU_v38.zip"
           }
         ],
         "priority":[
           {
-            "version":"0.38.0",
+            "version":"0.40.0",
             "filename":"SunstreamDFU_v38.zip"
           }
         ],
