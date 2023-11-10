@@ -9,7 +9,7 @@
         "beta":[
           {
             "version":"0.40.0",
-            "filename":"SunstreamDFU_v38.zip"
+            "filename":"SunstreamDFU_v40.zip"
           },
           {
             "version":"0.60.0",
@@ -27,13 +27,13 @@
         "release":[
           {
             "version":"0.40.0",
-            "filename":"SunstreamDFU_v38.zip"
+            "filename":"SunstreamDFU_v40.zip"
           }
         ],
         "priority":[
           {
             "version":"0.40.0",
-            "filename":"SunstreamDFU_v38.zip"
+            "filename":"SunstreamDFU_v40.zip"
           }
         ],
         "obsolete":[]
